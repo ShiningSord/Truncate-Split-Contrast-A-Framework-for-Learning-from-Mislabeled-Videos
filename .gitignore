@@ -1,0 +1,5 @@
+log*
+checkpoint*
+__pycache__*
+ft_local*
+*.pdf
