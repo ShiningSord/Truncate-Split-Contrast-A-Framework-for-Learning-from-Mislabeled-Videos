@@ -1,19 +1,19 @@
-# Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos [[arXiv]]()
+# Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos [[arXiv]](http://arxiv.org/abs/2212.13495)
 
 ```
-@inproceedings{lin2019tsm,
-  title={TSM: Temporal Shift Module for Efficient Video Understanding},
-  author={Lin, Ji and Gan, Chuang and Han, Song},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-  year={2019}
-} 
+@article{zixiao2022truncate,
+  title={Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos},
+  author={Zixiao, Wang and Junwu, Weng and Chun, Yuan and Jue, Wang},
+  journal={arXiv preprint arXiv:2212.13495},
+  year={2022}
+}
 ```
 
 
 
 ## Overview
 
-We release the PyTorch code of the [Truncate-Split-Contrast]().
+We release the PyTorch code of the [Truncate-Split-Contrast](http://arxiv.org/abs/2212.13495).
 
 
 ## Content
@@ -30,7 +30,7 @@ TODO
 
 ## Code
 
-This code is based on the [TSM]() codebase. 
+This code is based on the [TSM](https://github.com/mit-han-lab/temporal-shift-module) codebase. 
 
 ## Training and Testing
 
