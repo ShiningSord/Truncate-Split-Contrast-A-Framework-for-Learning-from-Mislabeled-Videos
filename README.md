@@ -41,4 +41,4 @@ You may need to modify the file opts.py and train.sh to fit your environment.
 
 ## Important 
 
-This is a very early version of our code. Too many things to do.
+This is a very early version of our code. We will release the full version later.
