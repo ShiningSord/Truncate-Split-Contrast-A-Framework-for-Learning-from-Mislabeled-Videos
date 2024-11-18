@@ -15,30 +15,8 @@
 
 We release the PyTorch code of the [Truncate-Split-Contrast](http://arxiv.org/abs/2212.13495).
 
-
-## Content
-
-TODO
-
-## Prerequisites
-
-TODO
-
-## Data Preparation
-
-TODO
-
-## Code
-
 This code is based on the [TSM](https://github.com/mit-han-lab/temporal-shift-module) codebase. 
-
-## Training and Testing
 
 You can train and test by one line `bash start.sh`  
 
 You may need to modify the file opts.py and train.sh to fit your environment.
-
-
-## Important 
-
-This is a very early version of our code. We will release the full version later.
