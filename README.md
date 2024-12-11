@@ -1,11 +1,14 @@
 # Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos [[arXiv]](http://arxiv.org/abs/2212.13495)
 
 ```
-@article{zixiao2022truncate,
-  title={Truncate-Split-Contrast: A Framework for Learning from Mislabeled Videos},
-  author={Zixiao, Wang and Junwu, Weng and Chun, Yuan and Jue, Wang},
-  journal={arXiv preprint arXiv:2212.13495},
-  year={2022}
+@inproceedings{wang2023truncate,
+  title={Truncate-split-contrast: a framework for learning from mislabeled videos},
+  author={Wang, Zixiao and Weng, Junwu and Yuan, Chun and Wang, Jue},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={3},
+  pages={2751--2758},
+  year={2023}
 }
 ```
 
